@@ -1,2 +1,2 @@
-# Practicing_Go
+# PracticingGo
 Simple Go Scripts for Practice
