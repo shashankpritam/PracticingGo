@@ -1,6 +1,6 @@
 # Factorial Calculator
 
-This program calculates the factorial of numbers provided in `input.txt` and outputs the result to `output.txt`.
+This program calculates the factorial of numbers provided in `input.txt` and outputs the result to `output.md`.
 
 ## Build Instructions
 
