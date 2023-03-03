@@ -14,7 +14,7 @@ This program calculates the factorial of numbers provided in `input.txt` and out
 2.  Input the numbers for which you want to calculate the factorial, separated by newlines
 3.  Save and close `input.txt`
 4.  Run the program: `./fact_io`
-5.  Open `output.txt`
+5.  Open `output.md`
 6.  The factorial values will be listed in the same order as the input numbers
 
 Note: The program will only calculate factorials for positive integers. Any non-integer values or negative values will be treated as invalid inputs and will not be calculated.
