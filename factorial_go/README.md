@@ -4,7 +4,7 @@ This program calculates the factorial of numbers provided in `input.txt` and out
 
 ## Build Instructions
 
-1.  Clone the repository: `git clone [Factorial Go](https://github.com/shashankpritam/PracticingGo/new/main/factorial_go)`
+1.  Clone the repository: `git clone https://github.com/shashankpritam/PracticingGo/new/main/factorial_go`
 2.  Navigate to the directory: `cd factorial_go`
 3.  Build the program: `go build fact_io.go`
 
